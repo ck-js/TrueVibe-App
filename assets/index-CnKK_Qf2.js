@@ -75,7 +75,7 @@ Please report this to https://github.com/markedjs/marked.`,t){const i="<p>An err
 ## Project Overview
 This project involves developing a Single Page Application (SPA) using Vue.js and Supabase. The application will enable users to take a quiz, receive a personalized report based on their results, and connect with matched users via a WhatsApp button. A key focus of this project is to create a reusable infrastructure that allows for future scaling without the need for a complete revamp. Additionally, we will prioritize accessibility to ensure that all users can effectively engage with the application.
 
-### User Flows
+## User Flows
 
 1. **User Registration/Login**
    - Users can sign up for a new account or log in to an existing account.
