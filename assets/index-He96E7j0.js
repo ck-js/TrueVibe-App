@@ -112,7 +112,7 @@ This project involves developing a Single Page Application (SPA) using Vue.js an
 - **Authentication**: Supabase Auth (for user registration and login)
 - **API**: Supabase client library for interaction with the database and real-time features.
 
-## 3. Features
+### 3. Features
 - **Quiz Module**:
   - Dynamic quiz creation and management, with focus on reusability for future quizzes.
   - Scoring system based on user responses, ensuring scalability for additional features.
