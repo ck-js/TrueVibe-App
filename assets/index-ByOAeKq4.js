@@ -128,9 +128,9 @@ This project involves developing a Single Page Application (SPA) using Vue.js an
   - Use WhatsApp's API to facilitate direct messaging.
   - Button functionality that opens WhatsApp with a pre-filled message, ensuring ease of communication for all users.
 
-- **Accessibility Focus**:
-- The application will adhere to WCAG (Web Content Accessibility Guidelines) standards to ensure usability for individuals with disabilities.
-- Features will include keyboard navigation, screen reader compatibility, and color contrast considerations to enhance user experience for everyone.
+- **Accessibility**:
+    - Design with accessibility in mind, ensuring that all users can navigate the application effectively.
+    - Compliance with WCAG guidelines for web accessibility, promoting inclusivity and usability for diverse user groups.
 
 ## Project Scope
 
