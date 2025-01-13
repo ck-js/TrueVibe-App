@@ -112,7 +112,7 @@ This project involves developing a Single Page Application (SPA) using Vue.js an
 - **Authentication**: Supabase Auth (for user registration and login)
 - **API**: Supabase client library for interaction with the database and real-time features.
 
-### 3. Features
+## 3. Features
 - **Quiz Module**:
   - Dynamic quiz creation and management, with focus on reusability for future quizzes.
   - Scoring system based on user responses, ensuring scalability for additional features.
@@ -128,13 +128,13 @@ This project involves developing a Single Page Application (SPA) using Vue.js an
   - Use WhatsApp's API to facilitate direct messaging.
   - Button functionality that opens WhatsApp with a pre-filled message, ensuring ease of communication for all users.
 
-#### Accessibility Focus
+- **Accessibility Focus**
 - The application will adhere to WCAG (Web Content Accessibility Guidelines) standards to ensure usability for individuals with disabilities.
 - Features will include keyboard navigation, screen reader compatibility, and color contrast considerations to enhance user experience for everyone.
 
-### Project Scope
+## Project Scope
 
-#### Deliverables
+### Deliverables
 1. A fully functional SPA with:
    - User registration and login pages.
    - Interactive Quiz interface designed for accessibility and ease of use.
@@ -150,18 +150,18 @@ This project involves developing a Single Page Application (SPA) using Vue.js an
    - Unit tests for critical components, ensuring reliability.
    - User acceptance testing (UAT) with a focus on accessibility to ensure the application meets diverse user needs.
 
-### Timeline
+## Timeline
 - **Phase 1**: Requirements gathering and design (1 week)
 - **Phase 2**: Development of frontend components (3 weeks)
 - **Phase 3**: Backend integration and database setup (3 weeks)
 - **Phase 4**: Testing and bug fixes (2 weeks)
 - **Phase 5**: Deployment and user training (1 week)
 
-### Assumptions
+## Assumptions
 - Users have access to the internet and are familiar with using web applications.
 - The matching algorithm's criteria will be predefined and agreed upon before development.
 - The application will be designed with scalability in mind, minimizing the need for future overhaul.
 
-### Conclusion
+## Conclusion
 This project aims to create an engaging and inclusive platform for users to connect based on deeper vulnerabilities rather than shared surface level interests revealed through a quiz. By leveraging Vue.js and Supabase, the application will provide a modern user experience, a robust backend, and a scalable infrastructure that can grow with its user base. Emphasizing accessibility ensures that all users can participate fully, fostering a diverse and vibrant community.
 `));return(n,s)=>(Wi(),Ki("div",null,[Y("div",{innerHTML:t.value},null,8,$c)]))}},Ic={class:"wrapper"},Oc=["src"],Mc={class:"wrapper"},Lc=["src"],zc=["src"],Dc=["src"],Fc=["src"],Bc=["src"],jc=["src"],Nc={__name:"App",setup(e){return(t,n)=>(Wi(),Ki(Ce,null,[Y("header",null,[Y("div",Ic,[Y("img",{class:"logo",src:De(No),alt:"TrueVibe Logo"},null,8,Oc)])]),He(Ec),Y("header",null,[Y("div",Mc,[Y("img",{src:De(Ho),alt:"TrueVibe Screenshot"},null,8,Lc),Y("img",{src:De(Uo),alt:"TrueVibe Screenshot"},null,8,zc),Y("img",{src:De(Vo),alt:"TrueVibe Screenshot"},null,8,Dc),Y("img",{src:De(qo),alt:"TrueVibe Screenshot"},null,8,Fc),Y("img",{src:De(Wo),alt:"TrueVibe Screenshot"},null,8,Bc),Y("img",{src:De(Ko),alt:"TrueVibe Screenshot"},null,8,jc)])]),n[0]||(n[0]=Y("footer",null,[Y("h6",null,[Fn("Developed by "),Y("a",{href:"https://salesscriptlab.com"},"Cliffton Kaewkarn"),Fn(" Check his code out")])],-1))],64))}},Hc=Go(Nc,[["__scopeId","data-v-b2615496"]]);Fo(Hc).mount("#app");
